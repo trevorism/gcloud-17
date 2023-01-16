@@ -1,6 +1,5 @@
-package com.trevorism.webapi.controller
+package com.trevorism.controller
 
-import com.trevorism.controller.RootController
 import org.junit.jupiter.api.Test
 
 /**
