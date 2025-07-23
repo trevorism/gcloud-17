@@ -1,4 +1,4 @@
-runtime: java21
+runtime: java17
 service: gcloud
 entrypoint: java -jar gcloud-all.jar
 handlers:
